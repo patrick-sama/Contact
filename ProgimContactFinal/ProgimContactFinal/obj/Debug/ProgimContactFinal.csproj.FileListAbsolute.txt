@@ -1,0 +1,76 @@
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\bin\Debug\rubrica.mdb
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe.config
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.pdb
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Insert.resources
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Properties.Resources.resources
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.GenerateResource.Cache
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.exe
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.pdb
+c:\users\asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csprojResolveAssemblyReference.cache
+C:\Users\Asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Search.resources
+C:\Users\Asus-i3\documents\visual studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Start.resources
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe.config
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.exe
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.pdb
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\bin\Debug\rubrica.mdb
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.pdb
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csprojResolveAssemblyReference.cache
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Insert.resources
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Properties.Resources.resources
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Search.resources
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Start.resources
+G:\Patrick\programmi\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.GenerateResource.Cache
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe.config
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.exe
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.pdb
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.pdb
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csprojResolveAssemblyReference.cache
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Insert.resources
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Properties.Resources.resources
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Search.resources
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Start.resources
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.GenerateResource.Cache
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.SearchGuest.resources
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe.config
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.pdb
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csprojResolveAssemblyReference.cache
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Insert.resources
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Properties.Resources.resources
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Search.resources
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.SearchGuest.resources
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Start.resources
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.GenerateResource.Cache
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.exe
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.pdb
+C:\Users\Asus-i3\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\rubrica.mdb
+\\imi-server\Administration\ProgimContactFinal\ProgimContactFinal\bin\Debug\rubrica.mdb
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe.config
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.exe
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\bin\Debug\ProgimContactFinal.pdb
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csprojResolveAssemblyReference.cache
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Insert.resources
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Properties.Resources.resources
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Search.resources
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.SearchGuest.resources
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Start.resources
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.GenerateResource.Cache
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.CoreCompileInputs.cache
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.exe
+C:\Users\Progim002\Desktop\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.pdb
+C:\Program Files\Imi Project\Pro-contact\ProgimContactFinal.exe.config
+C:\Program Files\Imi Project\Pro-contact\ProgimContactFinal.exe
+C:\Program Files\Imi Project\Pro-contact\ProgimContactFinal.pdb
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csprojResolveAssemblyReference.cache
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Insert.resources
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Properties.Resources.resources
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Search.resources
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.SearchGuest.resources
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.Start.resources
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.GenerateResource.Cache
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.csproj.CoreCompileInputs.cache
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.exe
+C:\Users\Progim002\Documents\Visual Studio 2017\Projects\ProgimContactFinal\ProgimContactFinal\obj\Debug\ProgimContactFinal.pdb
